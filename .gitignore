@@ -1,3 +1,6 @@
+# Jupter notebook
+*.ipynb_checkpoints
+
 # General
 .DS_Store
 .AppleDouble
